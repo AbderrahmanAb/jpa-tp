@@ -33,6 +33,7 @@ public class JpaTpApplication implements CommandLineRunner {
 
 
 
+
         byMalade.forEach(p ->{
             System.out.println("************************");
             System.out.println(p.getId());
